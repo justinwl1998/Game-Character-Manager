@@ -6,6 +6,7 @@ It allows users to add game titles and characters in those game titles.
 ## About the Project
 
 This project consists of a WPF user interface and stores the titles and characters in a SQL database.
+The Game Character Manager is the front-end and the Game Model Library handles the back-end business logic.
 This project is a good example of a simple WPF application that also uses a SQL database.
 
 ### Built with
