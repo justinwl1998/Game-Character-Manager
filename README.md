@@ -23,7 +23,7 @@ Clone the repo and open and build the solution file in Visual Studio.
 - [ ] Add updating of games and characters
 - [ ] Add deleting of characters from games
 - [ ] Revamp user interface to better accomodate future additions
-- [*] Update to use latest .NET version
+- [x] Update to use latest .NET version
 
 ## Author
 Created by Justin Liu
