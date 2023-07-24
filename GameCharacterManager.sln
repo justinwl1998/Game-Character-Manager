@@ -1,11 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1022
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCharacterManager", "GameCharacterManager\GameCharacterManager.csproj", "{84C742B9-22BA-4CC7-8EEB-49B5C9F07555}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameCharacterManager", "GameCharacterManager\GameCharacterManager.csproj", "{84C742B9-22BA-4CC7-8EEB-49B5C9F07555}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameModelLibrary", "GameModelLibrary\GameModelLibrary.csproj", "{A38B9554-FFA9-4E2C-90EE-68C772A880D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameModelLibrary", "GameModelLibrary\GameModelLibrary.csproj", "{A38B9554-FFA9-4E2C-90EE-68C772A880D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
